@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to Friends in England to be read in their assemblies in the fear of the Lord / by ... Elizabeth Hendericks.</title>
+            <author>Hendricks, Elizabeth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43324</idno>
+            <idno type="STC">Wing H1447</idno>
+            <idno type="STC">ESTC R11057</idno>
+            <idno type="EEBO-CITATION">11994879</idno>
+            <idno type="OCLC">ocm 11994879</idno>
+            <idno type="VID">52076</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43324)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52076)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 815:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to Friends in England to be read in their assemblies in the fear of the Lord / by ... Elizabeth Hendericks.</title>
+                  <author>Hendricks, Elizabeth.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Date at end: Amsterdam, the 19th of the 6th moneth, 1672.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52076:1"/>
+            <p>AN EPISTLE TO FRIENDS IN England, To be Read in their ASSEMBLIES in the Fear of the <hi>LORD.</hi>
+            </p>
+            <p>By your Friend in the Truth, <hi>Elizabeth Hendericks.</hi>
+            </p>
+            <p>Printed in the Year, 1672.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:52076:2"/>
+            <pb n="3" facs="tcp:52076:2"/>
+            <head>AN EPISTLE TO Friends, &amp;c.</head>
+            <opener>
+               <salute>FRIENDS,</salute>
+            </opener>
+            <p>YOU unto whom the Lord hath appeared in this his day, in his eternal, inexpreſſible Love, and hath given you the knowledge of his Truth, and ſtreched out unto you the Arm of his Power, and made known unto you the Way of Salvation: You it is, whom my endeared and unfeighned Love is flowing forth unto, which doth not conſiſt in any thing that's viſible but in that pure unchangable Love of God which h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath ſhed abroad in our hearts. And ſo in that, you are often preſented be<g ref="char:EOLhyphen"/>fore me, and often do I remember you with a deep ſence of your conditions, and of the unſpeakable Love of God to you-wards, and withall, of the manifold Temptations and Trialls you dally come to meet withal; and then is my heart poured out before the Lord with breathings and ſupplications, that you may perſevere in faith-fullneſs and ſtedfaſtneſs, and that you may be preſerved in and through them all; and there is a certain aſſureance in my heart, that the Lord will do it unto all thoſe that abide in the Faith, waiting upon him continually in his Light; and that he will not leave them, nor permit to come upon them beyond their abillity, nor yet more then will tend to their good.</p>
+            <p>
+               <pb n="4" facs="tcp:52076:3"/>
+So dear <hi>Friends,</hi> keep cloſs to the Light, and feel the Power of God, and abide in it, and let it be your daily care to remain in the Awe and Fear of God continually; that ſo you may come more and more to feel the leadings and guidings of the Lord in his Light, and that you wait at all times to know his Will and Counſel, and to feel his leadings therein: That ſo none may run before the Lord his Leader, but to fee<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Him go before, and to lead in the Way you ſhould walk in, and in thoſe things that concerns the Truth of God; that ſo you may ſtill be pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſerved in that, in which the Peace of God truly comes to be felt. For <hi>Friends,</hi> This is a thing of great weight, and far ſurpaſſes all that is viſible and tranſitory, ſo that you all may be kept waiting continually in the Light, upon the Lo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, to feel the Power and Virtue of it daily and to enjoy it, and that you may come to dwell in it in ſteadfaſtneſs without waver<g ref="char:EOLhyphen"/>ing: And this is that for which my labour is, and for which my deſire often times with deep Sighings and Breathings to the Lord is, that you may he kept and preſerved in thoſe dark places of the earth, where you have your Callings, and that you may be an Honour and Praiſe to him in your Generation, and that you may be refreſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d and conſolated by his Living Preſence more and more.</p>
+            <p>Oh <hi>Friends!</hi> How pretious is it to feel the preſence of God unto Ref<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſhment and Conſolation, but his pre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence is terrible unto thoſe that are found in Iniquity and Unfaithfulneſs Therefore <hi>Dear Friends,</hi> take heed of all that, that would draw you out from the conſtant and diligent watching in the Light, and to have a ſtrict regard thereunto; and of that Spirit that would run out into viſions and openings of the Truth, before the Leader; for that is that which is Impatient, Raſh, Haſty and Unſtable; and ſo that cannot hold out long but is ſoon weary, and quickly offended and troubled, when things do<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h not allwayes fall out according to that m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd; and ſo there is no perfect ſatiſfaction, but it is wearying it ſelf, now in this, and then in the other thing, and this cannot ſtand in the day of trial. But <hi>Friends,</hi> Dwell low in the feeling of the pure meaſure of God, and feel the Spirit of the <hi>Lamb</hi> that bears and ſuffers, and hold faſt the Faith in the Light, and cleave unto it with your whole hearts, that patience may poſſeſs your Souls, that ſo you may feel the plentious peace and ſatiſfaction therein. And <hi>Friends,</hi> Take heed of many conſultations and thoughts, concerning things which you cannot ſee through nor
+<pb n="5" facs="tcp:52076:3"/>comprehend, for if that gets place in the heart, that brings a burthen upon the mind, that darkens and vails, and greives the Righteous Seed of God, but in all things be careful that your minds may be kept con<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inually out of all ſuch things, in that that opens the underſtanding, and makes the heart tender; for that is that which muſt preſerve in that ſtate. And ſo <hi>Dear Friends,</hi> there is an enemy near, againſt whom it is greatly needful to watch con<g ref="char:EOLhyphen"/>tinually, that ſo the mind may be kept Single, Pure and Clean; and ſo that you may feel more and more theſe things, and to enjoy the Comfort and Conſolation in your ſelves, when the mind is kept ſingle and clean of all Incumbrances; and Reaſonings, and Conſultations about things which you cannot diſcern nor under ſtand, and leave it to the Lord who is onely Wiſe, and knows every ones Condition, Sate, and Capacity; who watcheth over his own, as a Father doth over his Children, teaching and in<g ref="char:EOLhyphen"/>ſtructing every one according to their growth and abillity, of thoſe things that are his Will concerning them. And <hi>Friends,</hi> Take heed of that Spirit that ſtill will ſeek to excuſe himſelf, and to diminiſh and hide that which is not well, and to lay the charge and fault upon another, to clear himſelf by ſo doing; this is the Spirit of the world, and is out of Truth, and by the Truth, the Light of God it is condemned. This is he that appeared in <hi>Adam</hi> and <hi>Eve</hi> in the begining after the Fall: And ſo <hi>Friends,</hi> You who are called to come out of the Fall, let nothing that is of that ſpirit and nature be cheriſhed nor regarded, but that all may be judged in the Light, which is ſpringing forth of that Ground, the curſed Ground in which the Thorns and Briars, and the Weeds growes, and let the Fire conſume it: So <hi>Dear Friends,</hi> keep nothing back, nor excuſe nothing, nor diminiſh it not, that cannot ſtand in the Light and Truth of God, but is Condemned and muſt be ſo for ever.</p>
+            <p>And <hi>Friends,</hi> Take heed of that, which when there is any thing done or ſpoken as in a ſence of Truth, that will to much be ſeen and lookt upon in it, and boaſt in it; this is that which ſeeks ſelf, and not the honour of God; but give you no place to that, for that will run when the Lord ſends not, and will be doing of that which the Lord requireth not; ſo there ought to be a continual watch againſt that: And you ſtill abiding in the true ſence and feeling, you come ſtill to feel what the Lord requires, and what he leads you unto; and ſo there Conſolation and Peace is felt,
+<pb n="6" facs="tcp:52076:4"/>and this doth not lift up but keeps low and ſenſible of the good<g ref="char:EOLhyphen"/>neſs of God, and that breaks and tenders the heart, and over<g ref="char:EOLhyphen"/>comes it.</p>
+            <p>And ſo this is that which every one ought to wait for in himſelf, to feel it, that ſo you may be as obedient Children, that are mind<g ref="char:EOLhyphen"/>ing the inſtructions and directions of the Father continually. And <hi>Friends,</hi> Watch againſt that which would be ſtriving to compre<g ref="char:EOLhyphen"/>hend, and know, and underſtand much, before it be the Lords time and pleaſure; for that is the ſame Spirit that is in the World, but wait low in the feeling of the Light and the Power, and dwell in it; that ſo what you know and underſtand of the Truth, and the things of it you may know in the Light, by the Revelation of the Lord therein: And this is that which is laſting, though never ſo little; and though ſuch be as little Children, that as it were know nothing at all, yet it is pretious to keep in that ſtate, and not to run, not to be buſie, not to will, but to be quietly wait<g ref="char:EOLhyphen"/>ing upon the Lord, to feel his Power, to feel his Arm, to preſerve and to lead, and to know him to be the Guide and Leader, who leads gently the little ones, and bears the Sucklings in his Arms, and keeps and preſerves them from that which would bruiſe and hurt them.</p>
+            <p>So <hi>Dear Friends,</hi> Your Strength, your Preſervation and Sal<g ref="char:EOLhyphen"/>vation is in the Lord, and therefore keep your ſelves cloſe to his Light, and imbrace it with a perfect heart, and cleave unto it with your whole ſtrength, and let it not go, neither let any thing have place in your hearts that is againſt it; and where there is any thing yet remaining in the heart, which is felt not to be in un<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty with it, give your ſelves no reſt, till you feel the Judgement of God ſet a top over it in your hearts, and then let it be freely refined up unto the Judgement, that ſo, not an enemy to the Truth and to your own Soules, may be left alive in the houſe.</p>
+            <p>So <hi>Dear Friends,</hi> This is in true Love unto you, from one who hath experience of theſe things concerning which I have wrot unto you, as in a weighty ſence that hath been upon my heart for a conſiderable time, and I could not well forbear longer, but muſt communicate it unto you, in a freſh and living <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence of the Love of God, and of Love unfeigned; which often floweth forth to you-wards, as an overflowing ſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eam, who are called <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Lord, and to whom the Lord hath ſtretched forth his Arm of Mercy and
+<pb n="7" facs="tcp:52076:4"/>Love. Oh <hi>Friends!</hi> Dwell in that which preſerves Love and Unity amongſt the Children of the houſhould of God, that ſo th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re may be no place amongſt you for diſcord, or any thing of that nature; neither let any thoughts enter the heart, which you dare not de<g ref="char:EOLhyphen"/>clare in words, for is it ſuch as that you dare not make i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> known? Then they are things that ought to have no place in the heart, though many times ſuch things may preſent themſelves in the thoughts, but it ought to have no place, for it will hurt, though <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t may appear with ſome ſhew of Truth or Good in it, or of a good tendency, but the end is ſeen in the Light, that it doth not proceed out of the Light: And ſo <hi>Friends,</hi> waiting in the Light, you will daily more and more, come to ſee the ſubtil workings of the enemy in the heart, which is the deſire of my Soul, and that you may be preſerved and kept out of his Snares.</p>
+            <p>So <hi>Friends,</hi> I have no other thing to which I can commit you, but to the Lord, who is able to preſerve you and to ke<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p you out of all the cunning devices of Sathan; yea, and I am perſwaded that he will do it, to all thoſe that perſeveres in the Faith, in his Light, in faithfulneſs, ſtedfaſt unto the end; ſo that you all may be preſerved and eſtabliſhed in the everlaſti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g Truth, and may endure to the end, that ſo none having put his hand to the Plough may look back, that is the earneſt longing and deſire of may heart.</p>
+            <p>So the Lord God of Power, who alone is our Strength, Power and Refuge, eſtabliſh your minds more and more in his Light, and your hearts more and more in the Faith, and continually to wait upon him in his Light, and to confirme your confidence in him; that ſo, <hi>you may run and not be weary, and walk on and faint not:</hi> That ſo Peace, Reſt, Comfort and Conſolation may be mul<g ref="char:EOLhyphen"/>tiplyed amongſt you from the Lord. To whom be Glory, and Honour, and Praiſes, for ever.</p>
+            <closer>
+               <signed>From your true Friend in the Truth, <hi>Elizabeth Hendericks.</hi>
+               </signed>
+               <dateline>
+                  <hi>Am<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>terdam,</hi> 
+                  <date>the 19th. of the 6th. Moneth, 1672.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
